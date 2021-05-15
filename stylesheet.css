@@ -23,13 +23,13 @@ h2 {
     margin: 5 5 5 5;
 }
 
-.container:hover {
+/*.container:hover {
     transform: scale(1.01);
    box-shadow: 0 0 12px rgba(rgb(245, 232, 207) (0.2));
    cursor: pointer;
    background-color: bisque;
    color: navy;
-}
+}*/
 
 .containerChild:hover {
    transform: scale(1.01);
