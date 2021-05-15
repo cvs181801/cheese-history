@@ -38,7 +38,11 @@ h2 {
    background-color: bisque;
    color: navy;
    width: 260px;
-   height: 100px;
+   height: 60px;
+   border-radius: 12px;
+   border:navy;
+   border-style: solid;
+   padding: 5px;
 }
 
 .lateefParagraph {
