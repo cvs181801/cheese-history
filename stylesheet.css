@@ -4,3 +4,9 @@ body {
     font-family:cursive;
     color: aliceblue;
 }
+
+h1 {
+    border:antiquewhite;
+    border-radius: 12px;
+    border-width: 2px;;
+}
