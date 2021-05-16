@@ -50,6 +50,6 @@ h2 {
 }
 
 .hero {
-    background-image: url("cheese-history/img/oldframe.jpeg");
+    background-image: url("../img/oldframe.jpeg");
     background-size: cover;
 }
