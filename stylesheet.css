@@ -98,3 +98,7 @@ body {
 section {
     padding: 3rem 0;
 }
+
+.Container {
+    margin-inline: auto;
+}
