@@ -39,7 +39,14 @@ h2 {
     background-repeat: no-repeat;
     justify-content: center;
 } */
+:root {
+    --clr-neutral-100: aliceblue;
+    --clr-neutral-150: bisque;
+    --clr-primary-800: navy;
 
+    --ff-primary: 'Lateef', cursive;
+    --ff-secondary: 'Tangerine', cursive;
+}
 ::before,
 ::after {
     box-sizing: border-box;
@@ -50,4 +57,10 @@ h1,
 h2,
 p {
     margin: 0;
+}
+
+body {
+    font-family: --ff-primary;
+    font-size: 1.3rem;
+    font-weight: 400;
 }
