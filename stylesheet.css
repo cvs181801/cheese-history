@@ -43,6 +43,7 @@ h2 {
     --clr-neutral-100: aliceblue;
     --clr-neutral-150: bisque;
     --clr-primary-800: navy;
+    --clr-primary-1000: black;
 
     --ff-primary: 'Lateef', cursive;
     --ff-secondary: 'Tangerine', cursive;
@@ -70,4 +71,16 @@ body {
     font-family: var(--ff-secondary);
     font-weight: 400;
     font-size: 2.3rem;
+}
+
+#bg-light {
+    background-color: var(--clr-neutral-150);
+}
+
+#bg-medium {
+    background-color: var(--clr-primary-800);
+}
+
+#bg-dark {
+    background-color: var(--clr-primary-1000);
 }
