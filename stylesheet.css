@@ -99,7 +99,8 @@ section {
     padding: 3rem 0;
 }
 
-.text-center {
+.text-center,
+header {
     padding: 3rem 0;
 }
 
