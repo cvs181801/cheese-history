@@ -58,6 +58,7 @@ h1,
 h2,
 p {
     margin: 0;
+    color: --clr-neutral-100;
 }
 
 body {
