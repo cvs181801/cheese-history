@@ -109,3 +109,7 @@ section {
     margin-inline: auto;
     width: min(90%, 70.5rem);
 }
+
+img {
+    max-width: 100%;
+}
