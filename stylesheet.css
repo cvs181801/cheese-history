@@ -67,7 +67,8 @@ body {
 }
 
 h1,
-h2 {
+h2,
+.hero {
     line-height: 1;
     font-family: var(--ff-secondary);
 }
