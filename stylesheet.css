@@ -71,16 +71,14 @@ body {
     font-family: var(--ff-secondary);
     font-weight: 400;
     font-size: 2.3rem;
+    background-color: var(--clr-primary-1000);
 }
 
-#bg-light {
+.bg-light {
     background-color: var(--clr-neutral-150);
 }
 
-#bg-medium {
+.bg-medium {
     background-color: var(--clr-primary-800);
 }
 
-#bg-dark {
-    background-color: var(--clr-primary-1000);
-}
