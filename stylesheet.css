@@ -100,7 +100,8 @@ section {
 }
 
 .Container, 
-.lateefParagraph {
+.lateefParagraph,
+.text-center {
     margin-inline: auto;
     width: min(90%, 70.5rem);
 }
