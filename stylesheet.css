@@ -99,6 +99,7 @@ section {
     padding: 3rem 0;
 }
 
-.Container {
+.Container, 
+.lateefParagraph {
     margin-inline: auto;
 }
