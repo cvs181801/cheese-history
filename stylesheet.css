@@ -79,6 +79,7 @@ body {
 .bg-light {
     background-color: var(--clr-neutral-150);
     text-align: center;
+    color: var(--clr-primary-800);
 }
 
 .bg-medium {
