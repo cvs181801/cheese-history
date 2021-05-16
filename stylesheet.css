@@ -117,8 +117,6 @@ img {
 
 .split {
     display: flex;
-}
-
-.Container {
     color: var(--clr-primary-800);
 }
+
