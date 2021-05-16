@@ -79,7 +79,7 @@ body {
     font-size: 2.3rem;
     background-color: var(--clr-primary-1000);
     text-align: center;
-    max-width: 50rem;
+    max-width: 40rem;
 }
 
 .bg-light {
