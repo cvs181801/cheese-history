@@ -68,4 +68,5 @@ body {
 
 .text-center {
     font-family: var(--ff-secondary);
+    font-weight: 400;
 }
