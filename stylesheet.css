@@ -69,5 +69,5 @@ body {
 h1,
 h2 {
     line-height: 1;
-    font-family: --ff-secondary;
+    font-family: var(--ff-secondary);
 }
