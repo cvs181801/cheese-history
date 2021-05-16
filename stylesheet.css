@@ -86,3 +86,6 @@ body {
     background-color: var(--clr-primary-800);
 }
 
+.container {
+    color: var(--clr-primary-800);
+}
