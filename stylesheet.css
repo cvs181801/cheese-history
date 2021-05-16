@@ -89,3 +89,7 @@ body {
 .containerChild {
     color: var(--clr-primary-800);
 }
+
+section {
+    padding: 3rem 0;
+}
