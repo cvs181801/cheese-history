@@ -52,4 +52,6 @@ h2 {
 .hero {
     background-image: url("/Users/casvalkyriespicer/Documents/GitHub/cheese-history/img/antiqueframe.jpeg");
     background-size: auto;
+    background-repeat: no-repeat;
+    background-size: 100px 300px;
 }
