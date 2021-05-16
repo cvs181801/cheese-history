@@ -102,4 +102,5 @@ section {
 .Container, 
 .lateefParagraph {
     margin-inline: auto;
+    width: min(90%, 70.5rem);
 }
