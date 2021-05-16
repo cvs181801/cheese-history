@@ -66,9 +66,7 @@ body {
     line-height: 1.6;
 }
 
-h1,
-h2,
-.hero {
+.text-center{
     line-height: 1;
     font-family: var(--ff-secondary);
 }
