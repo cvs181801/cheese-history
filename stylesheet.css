@@ -121,7 +121,7 @@ img {
 }
 
 @media (min-width: 40em) {
-    .Container {
+    .Container, .split {
         flex-direction: row;
     }
     .Container > * {
