@@ -118,6 +118,7 @@ img {
 .split, .Container {
     display: flex;
     color: var(--clr-primary-800);
+    flex-direction: column;
 }
 
 @media (min-width: 40em) {
