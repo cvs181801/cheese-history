@@ -120,3 +120,11 @@ img {
     color: var(--clr-primary-800);
 }
 
+@media (min-width: 40em) {
+    .split {
+        flex-direction: row;
+    }
+    .split > * {
+        flex-basis: 100%;
+    }
+}
