@@ -127,4 +127,8 @@ img {
     .Container > * {
         flex-basis: 100%;
     }
+
+    .Container > * + * {
+        margin-left: 2em;
+    }
 }
