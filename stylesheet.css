@@ -121,10 +121,10 @@ img {
 }
 
 @media (min-width: 40em) {
-    .split {
+    .Container {
         flex-direction: row;
     }
-    .split > * {
+    .Container > * {
         flex-basis: 100%;
     }
 }
