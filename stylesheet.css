@@ -48,10 +48,10 @@ h2 {
     --ff-primary: 'Lateef', cursive;
     --ff-secondary: 'Tangerine', cursive;
 }
-::before,
+/*::before,
 ::after {
     box-sizing: border-box;
-}
+}*/
 
 body,
 h1,
